@@ -60,7 +60,7 @@
     padding: 0;  
   }
   .main_text {
-    font-size: 5vw;
+    font-size: 4vw;
     margin-bottom: 10px;
   }
   .more_container {
@@ -83,7 +83,7 @@
 /** 600px **/
 @media(max-width:600px){
   .main_text {
-    font-size: 32px;
+    font-size: 4vw;
     margin-bottom: 5px;
   }
 }
